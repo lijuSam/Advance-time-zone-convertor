@@ -1,6 +1,6 @@
 # Time Zone Converter
 
-[![npm version](https://img.shields.io/npm/v/time-zone-convertor.svg)]([https://www.npmjs.com/package/time-zone-convertor](https://www.npmjs.com/package/time-zone-convertor))
+[![npm version](https://img.shields.io/npm/v/time-zone-convertor.svg)]((https://www.npmjs.com/package/time-zone-convertor))
 [![npm downloads](https://img.shields.io/npm/dt/time-zone-convertor.svg)](https://www.npmjs.com/package/time-zone-convertor)
 [![GitHub license](https://img.shields.io/github/license/yourusername/time-zone-convertor)](https://github.com/lijuSam/time-zone-convertor/blob/main/LICENSE)
 
