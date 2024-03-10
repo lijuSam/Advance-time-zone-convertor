@@ -1,0 +1,25 @@
+{
+  "name": "time-zone-convertor",
+  "version": "1.1.0",
+  "description": "A npm package for converting time into different time zone",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lijuSam/Advance-time-zone-convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Liju Samuel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lijuSam/Advance-time-zone-convertor/issues"
+  },
+  "homepage": "https://github.com/lijuSam/Advance-time-zone-convertor#readme",
+  "dependencies": {
+    "moment-timezone": "^0.5.45"
+  }
+}
